@@ -198,15 +198,15 @@ label.checkbox_text {
 }
 
 
-@media ((min-width:1000px) and (max-width:1115px)){
-    
-    
+@media ((min-width:1000px) and (max-width:1115px)) {
+
+
     .mockup__img {
-            transform: scale(1.45);
-            position: relative;
-            top: 45px;
-        }
-    
+        transform: scale(1.45);
+        position: relative;
+        top: 45px;
+    }
+
 }
 
 
@@ -253,6 +253,11 @@ label.checkbox_text {
         transform: scale(1.45);
         position: relative;
         top: -50px;
+    }
+
+
+    .toc-text {
+        width: 80%;
     }
 
 }
