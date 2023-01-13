@@ -256,8 +256,16 @@ label.checkbox_text {
     }
 
 
-    .toc-text {
+
+
+}
+
+
+@media (max-width:430px) {
+    label.checkbox_text {
+        font-size: 1.4rem;
+    }
+    .toc-text{
         width: 80%;
     }
-
 }
